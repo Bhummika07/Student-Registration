@@ -33,12 +33,7 @@ To design and develop a student registration form using basic front-end technolo
 ## 🖥️ Screenshots
 
 ### Registration Form
-![Student Registration Form](screenshots/form.png)
-
-### Success Message
-![Success Message](screenshots/success.png)
-
-> *(Add screenshots inside a `screenshots` folder and update image names if needed)*
+![Student Registration Form](form.png)
 
 ---
 
